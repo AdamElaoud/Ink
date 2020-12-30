@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Barrier
+  - Key
+  - Lock
+  - Kill Zone
+  - Moving Platform
+  - Moving Barrier
+  - Shifting Platform
+  - Shifting Barrier
+  - Shifting Moving Platform
+  - Shifting Moving Barrier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Neutral
+  - Blue
+  - Red
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3880468297
+    locked: 0
+  - name: Foreground
+    uniqueID: 1293053565
+    locked: 0
+  - name: Player
+    uniqueID: 2965071347
+    locked: 0
+  - name: UI
+    uniqueID: 1890003919
+    locked: 0

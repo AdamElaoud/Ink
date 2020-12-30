@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Anim Override Red
+  m_Controller: {fileID: 9100000, guid: 3e0c07077d9bb8d4691a0cfbf3a67545, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 03d088b4e50819542b56f4be14e8d659, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bfd7de8ba36bb8e4d80ca7772923c6ed, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d8a95b7f687dca46aef5e413ee57cc3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 757f98228c8d4cf408349dbd11882379, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6af761aa12512a343a61a77b988c77db, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62a6f64fdedbf7d41860a201c3cd8db7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1337371e30831a543ad71499dcec2a70, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 85aee7d4c0b9c3648846edf6a5d77cc8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 89dff0e31cf8c6d46b96b8e63d7720f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b2eea44e69c840d4e836533ae55f135e, type: 2}
